@@ -4,14 +4,15 @@ Be Here é um aplicativo que notifica o usuário a cada hora múltipla de 10 min
 
 A ideia do app é manter o usuário ciente do tempo.
 
-### Features
+### Funcionalidades
 
-- Notificação a cada hora múltipla de 10 minutos enquanto o app estiver aberto.
+- [x] Notificação a cada hora múltipla de 10 minutos enquanto o app estiver aberto.
+- [ ] Ajuste de hora de início e término das notificações. [Em progresso]
 
 ### Tecnologias
 
-- NextJS
-- TailwindCSS
+- React / NextJS -> Framework
+- TailwindCSS -> Estilos
 
 ### Como rodar o projeto
 
