@@ -6,8 +6,7 @@ A ideia do app é manter o usuário ciente do tempo.
 
 ### Features
 
-- Notificação a cada hora múltipla de 10 minutos.
-- Ajuste de hora de inpicio e término das notificações.
+- Notificação a cada hora múltipla de 10 minutos enquanto o app estiver aberto.
 
 ### Tecnologias
 
